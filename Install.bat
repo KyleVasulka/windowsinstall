@@ -34,9 +34,8 @@ winget install -e --id Parsec.Parsec
 winget install -e --id Postman.Postman
 winget install -e --id RaspberryPiFoundation.RaspberryPiImager
 winget install -e --id Ultimaker.Cura
-winget install -e --id uvncbvba.UltraVnc
 winget install -e --id TimKosse.FileZilla.Client
-winget install -e --id Microsoft.VisualStudio.2022.Community-Preview
-winget install -e --id UnityTechnologies.UnityHub
 winget install -e --id WinSCP.WinSCP
 winget install -e --id WireGuard.WireGuard
+winget install -e --id UnityTechnologies.UnityHub
+winget install -e --id Microsoft.VisualStudio.2022.Community-Preview
