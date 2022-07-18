@@ -8,7 +8,6 @@ winget install -e --id Docker.DockerDesktop
 winget install -e --id Discord.Discord
 winget install -e --id Python.Python.3
 winget install -e --id Audacity.Audacity
-winget install -e --id Docker.DockerDesktop
 winget install -r --id Flow-Launcher.Flow-Launcher
 winget install -e --id FedericoTerzi.espanso
 winget install -e --id Google.Chrome
