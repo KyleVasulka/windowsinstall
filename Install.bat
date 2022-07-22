@@ -29,6 +29,7 @@ winget install -e --id YTmdesktop.Ytmdesktop
 winget install -e --id Nvidia.GeForceExperience
 winget install -e --id EpicGames.EpicGamesLauncher
 winget install -e --id Project64.Project64
+winget install -e --id Libretro.RetroArch
 winget install -e --id PuTTY.PuTTY
 winget install -e --id voidtools.Everything
 winget install -e --id Parsec.Parsec
