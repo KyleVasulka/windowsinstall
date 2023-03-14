@@ -36,6 +36,7 @@ winget install -e --id Parsec.Parsec
 winget install -e --id Postman.Postman
 winget install -e --id RaspberryPiFoundation.RaspberryPiImager
 winget install -e --id Ultimaker.Cura
+winget install -e --id Microsoft.PowerToys
 winget install -e --id TimKosse.FileZilla.Client
 winget install -e --id WinSCP.WinSCP
 winget install -e --id WireGuard.WireGuard
