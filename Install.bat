@@ -2,6 +2,8 @@ winget install -e --id Notepad++.Notepad++
 winget install -e --id OpenJS.NodeJS
 winget install -e --id ArduinoSA.IDE.beta
 winget install -e --id Git.Git
+winget install -e --id GitHub.cli
+winget install -e --id GitHub.GitHubDesktop
 winget install -e --id Microsoft.VisualStudioCode
 winget install -e --id Valve.Steam
 winget install -e --id Docker.DockerDesktop
