@@ -18,6 +18,7 @@ winget install -e --id VideoLAN.VLC
 winget install -e --id Notion.Notion
 winget install -e --id Oracle.JDK.17
 winget install -e --id KiCad.KiCad
+winget install -e --id HTTPie.HTTPie
 winget install -e --id Mozilla.Firefox
 winget install -e --id Telegram.TelegramDesktop
 winget install -e --id Spotify.Spotify
