@@ -21,6 +21,7 @@ winget install -e --id KiCad.KiCad
 winget install -e --id HTTPie.HTTPie
 winget install -e --id UderzoSoftware.SpaceSniffer
 winget install -e --id Mozilla.Firefox
+winget install -e --id tailscale.tailscale
 winget install -e --id Telegram.TelegramDesktop
 winget install -e --id Spotify.Spotify
 winget install -e --id Mojang.MinecraftLauncher
