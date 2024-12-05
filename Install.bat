@@ -47,3 +47,4 @@ winget install -e --id WinSCP.WinSCP
 winget install -e --id WireGuard.WireGuard
 winget install -e --id UnityTechnologies.UnityHub
 winget install -e --id Microsoft.VisualStudio.2022.Community-Preview
+winget install -e --id Bambulab.Bambustudio
